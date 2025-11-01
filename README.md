@@ -1,7 +1,7 @@
 # Análisis de Ventas - El Arte de Vivir
 
-**Autor:** Juan David Castaño  
-**Cargo:** Desarrollador de software
+**Autor:** Julian Seguro  
+**Cargo:** Desarrollador de backend
 
 ---
 
